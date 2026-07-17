@@ -1,0 +1,9 @@
+{
+  "name": "ClipFlow",
+  "description": "iOS-style SaaS that automatically transforms YouTube uploads into viral short-form clips using AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
